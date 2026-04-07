@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{82DF9416-2E29-42DD-B4D9-8AA513C8C440}") = "Apex Legends External Cheat", "Apex Legends External Cheat\Apex Legends External Cheat.vcxproj", "{AA62690B-A2B9-488E-9769-0332528AA49C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA62690B-A2B9-488E-9769-0332528AA49C}.Debug|x64.ActiveCfg = Debug|x64
+		{AA62690B-A2B9-488E-9769-0332528AA49C}.Debug|x64.Build.0 = Debug|x64
+		{AA62690B-A2B9-488E-9769-0332528AA49C}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA62690B-A2B9-488E-9769-0332528AA49C}.Debug|x86.Build.0 = Debug|Win32
+		{AA62690B-A2B9-488E-9769-0332528AA49C}.Release|x64.ActiveCfg = Release|x64
+		{AA62690B-A2B9-488E-9769-0332528AA49C}.Release|x64.Build.0 = Release|x64
+		{AA62690B-A2B9-488E-9769-0332528AA49C}.Release|x86.ActiveCfg = Release|Win32
+		{AA62690B-A2B9-488E-9769-0332528AA49C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E5D19EA-3CAA-47A2-ADBB-CF812E4C3892}
+	EndGlobalSection
+EndGlobal
